@@ -1,4 +1,4 @@
-This is a private, difficulty 1 testnet in a box for litecoin - based off freewil's testnet-box for bitcoin (github.com/freewil/bitcoin-testnet-box).
+This is a private, difficulty 1 testnet in a box for crowncoin - based off freewil's testnet-box for bitcoin (github.com/freewil/bitcoin-testnet-box).
 
 Use it as follows:
 
